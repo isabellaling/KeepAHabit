@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ttxm</groupId>
-	<artifactId>KeepAHabit</artifactId>
+	<artifactId>habits-tracking</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>KeepAHabit</name>
-	<description>keep a habit</description>
+	<name>habits-tracking</name>
+	<description>habits tracking</description>
 	<packaging>jar</packaging>
 
 	<properties>
